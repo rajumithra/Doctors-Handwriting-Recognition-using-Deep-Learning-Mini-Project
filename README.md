@@ -1,2 +1,2 @@
-# Doctors-Handwriting-Recognition-using-Depp-Learning-Mini-Project
+# Doctors-Handwriting-Recognition-using-Deep-Learning-Mini-Project
 Smart India Hackathon Problem statement 
